@@ -144,9 +144,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vinay-ghate&show_icons=true&locale=en&layout=compact" alt="vinay-ghate" />
-</p>
 
-<p align="center">
+
+
   <img src="https://github-readme-stats.vercel.app/api?username=vinay-ghate&show_icons=true&locale=en" alt="vinay-ghate" />
 </p>
 
