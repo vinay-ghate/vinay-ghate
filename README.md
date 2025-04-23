@@ -22,7 +22,7 @@
   <samp>
 <!--     <a href="https://twitter.com/vinayghate">「 Twitter 」</a> -->
     <br>
-    「 Software Engineering Student @SPPU 」
+    「 Software Engineer 」
     <br>
     <br>
   </samp>
