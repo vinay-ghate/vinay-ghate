@@ -10,146 +10,32 @@
   <samp>&gt;Hey there! I'm
     <b><a target="_blank" href="https://github.com/vinay-ghate">Vinay</a></b>
   </samp>
+  
 </h3>
-
-
-
 <a href="https://komarev.com/ghpvc/?username=vinay-ghate">
   <img align="right" src="https://komarev.com/ghpvc/?username=vinay-ghate&label=Profile%20views&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
-<p align="center"> 
-  <samp>
-<!--     <a href="https://twitter.com/vinayghate">「 Twitter 」</a> -->
-    <br>
-    「 Software Engineer 」
-    <br>
-    <br>
-  </samp>
-</p>
 
-<p align="center">
-  <a href="https://twitter.com/vinayghate" target="blank">
-    <img src="https://img.shields.io/twitter/follow/vinayghate?logo=twitter&style=for-the-badge" alt="vinayghate" />
-  </a>
-  <a href="https://linkedin.com/in/vinay-ghate" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="vinay-ghate"/>
-  </a>
-  <a href="https://instagram.com/vinay_ghate" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="vinay_ghate" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/vinay_ghate" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-0A0A0A?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="vinay_ghate" />
-  </a>
-</p>
+# 💫 About Me:
 
-<br>
-
-<!-- About Section -->
-# About me
-
-<p>
-<!--   <img align="right" width="350" src="YOUR_IMAGE_URL_HERE" alt="Your Image" /> -->
-  
- ✌️ &emsp; A passionate programmer diving into cybersecurity and Web3<br/><br/>
- ❤️ &emsp; Currently learning and exploring new technologies<br/><br/>
- 📧 &emsp; Reach me anytime: vsg0131@gmail.com<br/><br/>
- 💬 &emsp; Let's connect and explore the possibilities together!
-</p>
-
-<br/>
-<br/>
-<br/>
-
-<!-- Languages and Tools Section -->
-## Languages and Tools:
-
-<p align="center">
-  <!-- Add your preferred tools and languages here -->
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.learn-c.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-<!--   <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg" alt="sql" width="40" height="40"/>
-  </a> -->
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="vscode" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-  </a>
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/>
-  </a>
-  <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" alt="anaconda" width="40" height="40"/>
-  </a>
-<!--   <a href="https://notion.so/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg" alt="notion" width="40" height="40"/>
-  </a> -->
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>
-  </a>
-  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/>
-  </a>
-<!--   <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kali/kali-original.svg" alt="kali" width="40" height="40"/>
-  </a> -->
-<!--   <a href="#" target="_blank" rel="noreferrer">
-    <img src="CUSTOM_ICON_URL_1" alt="custom-icon" width="40" height="40"/>
-  </a> -->
-<!--   <a href="#" target="_blank" rel="noreferrer">
-    <img src="CUSTOM_ICON_URL_2" alt="custom-icon" width="40" height="40"/>
-  </a> -->
-</p>
+🤖 Building intelligent AI agents with Python & LangChain.<br>🤝 Open to collaborating on projects involving AI, API development, and scalable backend systems.<br>💡 Seeking guidance on advanced software architecture, system design, and practical AI applications.<br>🎓 Learning and applying skills in LLMs (LangChain, n8n, Langgraph) and backend development with Django & FastAPI.<br>💬 Feel free to ask me about Python, AI chatbots, building REST APIs with Django, and working with SQL databases!
 
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vinay_ghate) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vinay-ghate) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/vinayghate) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vsg0131@gmail.com) 
 
-<!-- GitHub Stats and Activity Graph Section -->
-## GitHub Stats and Activity:
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=vinay-ghate&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=vinay-ghate&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vinay-ghate&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vinay-ghate&show_icons=true&locale=en&layout=compact" alt="vinay-ghate" />
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=vinay-ghate&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=vinay-ghate&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
-
-  <img src="https://github-readme-stats.vercel.app/api?username=vinay-ghate&show_icons=true&locale=en" alt="vinay-ghate" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinay-ghate&" alt="vinay-ghate" />
-</p>
